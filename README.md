@@ -24,11 +24,11 @@ Long story short, Koutenn (the Black & Red) is back (with her friend Ewon the Pi
 
 
 
-## demo
-### level 1:
+## Demo
+### LEVEL 1:
 ![image](https://github.com/ningkko/Koutenn-Madness-Returns/blob/master/demo/demo1.png)
 
-### level 2:
+### LEVEL 2:
 ![image](https://github.com/ningkko/Koutenn-Madness-Returns/blob/master/demo/demo2.png)
 
 
